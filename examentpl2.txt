@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 unr partie de code source est sur la branche master
+=======
+>>>>>>> branch_examen_l2
